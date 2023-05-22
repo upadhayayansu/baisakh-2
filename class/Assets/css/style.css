@@ -1,0 +1,59 @@
+#topheader{
+    padding: 10px 0;
+}
+
+.navigations{
+    display: flex;
+   align-items: center; 
+   justify-content: flex-end;
+}
+.navigations ul {
+    display: flex;
+    list-style: none; 
+    margin: 0%;
+    padding:0%;
+}
+.socialization{
+    display: flex;
+    justify-content: flex-end;
+}
+.navigations ul li a{
+    padding: 10px;
+    text-decoration: none;
+    color:black;
+}
+#baneer .row {
+    align-items: center;
+}
+.navigations ul li a:hover{
+    background:blue;
+}
+.bannertext h1{
+    font-size: 65px;
+    font-weight: bold;
+    color:red;
+}
+.bannerimage img{
+    width:100%;
+}
+.bannertext p{
+    font-size:20px;
+}
+.banner h1{
+    font-size: 50px;
+    color:black;
+    font-weight: bold;
+}
+.bannertext img{
+    width:100%;
+}
+
+
+/* 2. Input/Black/Input_Black_normal */
+
+
+position: absolute;
+left: 0%;
+right: 63.76%;
+top: 67.59%;
+bottom: 23.45%;
